@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding = utf-8
+Name = movietitle
+Comment = A better title for movies
+Comment[es] = Renombrador de titulos de peliculas
+GenericName = movietitle
+Terminal = false
+Icon = /opt/extras.ubuntu.com/movietitle/share/icons/movietitle.svg
+Type = Application
+Exec = /opt/extras.ubuntu.com/movietitle/bin/movietitle
+Categories = GNOME;GTK;Application;Utils;
+Name[es] = movietitle
+Comment[es] = Mejores títulos para tus películas

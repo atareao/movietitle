@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-02-06 08:09+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:192
+msgid "Preferences"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:207
+msgid "Replacements"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:227
+msgid "Replace"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:233
+msgid "With"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:241
+msgid "Add"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:248
+msgid "Remove"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:325
+msgid "Load files"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:332
+msgid "Preview"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:340
+msgid "Set preferences"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:347
+msgid "About"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:354
+msgid "Run"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:372
+msgid "Source"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:378
+msgid "Modified"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:414
+msgid "An extension for Nautilus to clean movie title"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:468
+msgid "Select one or more movie files to rename"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:477
+msgid "Movie files"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/movietitle.desktop.in:12
+msgid "movietitle"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/movietitle.desktop.in:13
+msgid "A better title for movies"
+msgstr ""

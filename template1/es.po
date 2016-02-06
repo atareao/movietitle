@@ -1,0 +1,124 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# atareao <lorenzo.carbonell.cerezo@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: movietitle 0.0.2.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-02-06 08:09+0100\n"
+"PO-Revision-Date: 2012-01-22 19:51+0100\n"
+"Last-Translator: atareao <lorenzo.carbonell.cerezo@gmail.com>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:192
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:207
+#, fuzzy
+msgid "Replacements"
+msgstr "Sustituye"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:227
+msgid "Replace"
+msgstr "Sustituye"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:233
+msgid "With"
+msgstr "Con"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:241
+msgid "Add"
+msgstr "Añadir"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:248
+msgid "Remove"
+msgstr "Quitar"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:325
+msgid "Load files"
+msgstr "Cargar archivos"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:332
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:340
+msgid "Set preferences"
+msgstr "Preferencias"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:347
+msgid "About"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:354
+msgid "Run"
+msgstr "Iniciar"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:372
+msgid "Source"
+msgstr "Origen"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:378
+msgid "Modified"
+msgstr "Modificado"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:414
+msgid "An extension for Nautilus to clean movie title"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:468
+msgid "Select one or more movie files to rename"
+msgstr "Selecciona uno o mas archivos de películas para renombrar"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/src/movietitle_extension.py:477
+msgid "Movie files"
+msgstr "Archivos de películas"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/movietitle.desktop.in:12
+msgid "movietitle"
+msgstr "movietitle"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/movietitle/movietitle.desktop.in:13
+msgid "A better title for movies"
+msgstr "Mejores títulos para tus películas"
+
+#~ msgid "The name of the file"
+#~ msgstr "El nombre del archivo"
+
+#~ msgid "The extension of the file"
+#~ msgstr "La extensión del archivo"
+
+#~ msgid "An iterator"
+#~ msgstr "Un iterador"
+
+#~ msgid "A predefinied function to format numbers"
+#~ msgstr "Una función predefinida para formatear números"
+
+#~ msgid "Pattern"
+#~ msgstr "Patrón"
+
+#~ msgid "Save pattern"
+#~ msgstr "Guardar patrón"
+
+#~ msgid "Delete pattern"
+#~ msgstr "Borrar patrón"
+
+#~ msgid "Rename-me"
+#~ msgstr "Sustituye-me"
+
+#~ msgid "Replace string in files"
+#~ msgstr "Sustituir una cadena en los archivos"
+
+#~ msgid "Replace a string in selected files"
+#~ msgstr "Sustituye una cadena en los archivos seleccionados"
+
+#~ msgid "Files"
+#~ msgstr "Archivos"
