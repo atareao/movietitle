@@ -43,8 +43,8 @@ __url__ = 'http://www.atareao.es'
 ######################################
 
 def is_package():
-	return (os.getcwd().find('/opt/extras.ubuntu.com/movietittle/')>0 or \
-	__file__.startswith('/opt/extras.ubuntu.com/movietitle/'))
+	return (os.getcwd().find('/usr/share/nautilus-python/extensions/')>0 or \
+	__file__.startswith('/usr/share/nautilus-python/extensions/'))
 
 ######################################
 
