@@ -64,6 +64,7 @@ PARAMS = {
 	{'value':'anio','with':'a\u00f1o'},
 	{'value':'anios','with':'a\u00f1os'},
 	{'value':'.','with':' '},
+	{'value':'_','with':' '},
 	{'value':'spanish','with':''},
 	{'value':'xvid','with':''},
 	{'value':'mp3','with':''},
@@ -73,9 +74,11 @@ PARAMS = {
 	{'value':'freak','with':''},
 	{'value':'team','with':''},
 	{'value':'[','with':''},
+	{'value':'microhd','with':''},
 	{'value':'hd','with':''},
 	{'value':'dvd','with':''},
 	{'value':']','with':''},
+	{'value':'1080p','with':''},
 	{'value':'1080','with':''},
 	{'value':'x264','with':''},
 	{'value':'english','with':''},
@@ -525,7 +528,7 @@ class MovieTitleDialog(Gtk.Dialog): # needs GTK, Python, Webkit-GTK
 		filename = filename.lower()
 		ext = ext.lower()
 		for replacement in configuration.get('replacements'):
-			filename = filename.replace(replacement['value'],replacement['with'])
+			filename = filename.replace(replacement['value'],replacement['with'].lower())
 			filename=filename.strip()
 			filename=filename.rstrip()
 			filename=filename.lstrip()

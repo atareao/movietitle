@@ -1,8 +1,9 @@
-movietitle (0.0.2.1-1ubuntu4) wily; urgency=medium
+movietitle (0.0.2.2-1ubuntu0) wily; urgency=medium
 
   * Fixed some bugs
+  * Improved cleaning
 
- -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 06 Feb 2016 08:37:45 +0100
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 07 Feb 2016 12:06:05 +0100
 
 movietitle (0.0.2.1-1ubuntu2) wily; urgency=medium
 
